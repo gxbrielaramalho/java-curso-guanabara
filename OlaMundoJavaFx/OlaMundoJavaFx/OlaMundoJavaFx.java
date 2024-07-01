@@ -21,7 +21,7 @@ public class OlaMundoJavaFx {
     // Método que cria e exibe a interface gráfica
     private static void createAndShowGUI() {
         // Cria um JFrame (janela)
-        JFrame frame = new JFrame("Olá, Mundo Swing!");
+        JFrame frame = new JFrame("Olá, Mundo!");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Define o comportamento de fechar a janela
 
         // Cria um JPanel (painel) para conter os componentes
