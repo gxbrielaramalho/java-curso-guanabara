@@ -1,5 +1,4 @@
 package Calculadora;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -83,7 +82,7 @@ public class Calculadora {
             }
         });
 
-        // Tornar a janela visível
+        // Tornar a janela do programa visível
         frame.setVisible(true);
     }
 }
